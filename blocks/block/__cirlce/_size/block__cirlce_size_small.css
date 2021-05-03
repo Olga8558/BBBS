@@ -1,0 +1,7 @@
+.block__cirlce_size_small {
+  width: calc(10vw - 30px);
+  height: calc(10vw - 30px);
+  transform: translate(58px, 0px);
+  max-width: 127px;
+  max-height: 127px;
+}

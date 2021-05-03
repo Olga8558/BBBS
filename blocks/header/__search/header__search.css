@@ -1,0 +1,16 @@
+.header__search {
+  background: url(../../../images/header-search.svg) no-repeat 100%/cover;
+  width: 30px;
+  height: 30px;
+border: none;
+}
+
+.header__account:focus{
+  outline: none;
+}
+
+@media (max-width: 1275px) {
+  .header__search{
+    order: 1;
+  }
+}

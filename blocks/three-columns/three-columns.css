@@ -1,0 +1,8 @@
+.three-columns {
+  display: grid;
+  grid-template-rows: repeat(3,auto);
+  box-sizing: border-box;
+  grid-gap: 30px;
+  align-content: center;
+  width: 100%;
+}

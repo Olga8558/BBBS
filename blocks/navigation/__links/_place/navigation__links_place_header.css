@@ -1,0 +1,12 @@
+.navigation__links_place_header {
+  grid-template-columns: repeat(6, auto);
+  grid-gap: 30px;
+  max-width: 740px;
+  min-height: 18px;
+}
+
+@media (max-width: 1275px) {
+  .navigation__links_place_header {
+    display: none;
+  }
+}

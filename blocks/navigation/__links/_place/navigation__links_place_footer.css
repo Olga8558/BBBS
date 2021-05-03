@@ -1,0 +1,4 @@
+.navigation__links_place_footer {
+  grid-template-rows: repeat(7,auto);
+  grid-gap: 20px;
+}

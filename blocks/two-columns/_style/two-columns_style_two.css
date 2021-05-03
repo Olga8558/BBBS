@@ -1,0 +1,4 @@
+.two-columns_style_two {
+  column-gap: 0;
+  grid-template-columns: 32% 68%;
+}

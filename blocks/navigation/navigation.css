@@ -1,0 +1,9 @@
+.navigation {
+  margin: 0 auto 0;
+}
+
+@media (max-width: 1275px) {
+  .navigation {
+    display: none;
+  }
+}

@@ -1,0 +1,8 @@
+.block__cirlce_size_medium {
+  width: calc(20vw - 85px);
+  height: calc(20vw - 85px);
+  margin-top: auto;
+  transform: translate(17px, 0px);
+  max-width: 300px;
+  max-height: 300px;
+}

@@ -1,0 +1,11 @@
+.header__divisor {
+  background: url(../../../images/header-divisor.svg) no-repeat center/contain;
+  width: 30px;
+  height: 30px;
+}
+
+@media (max-width: 1275px) {
+  .header__divisor {
+    display: none;
+  }
+}

@@ -1,0 +1,9 @@
+.block__cirlce {
+  width: calc(33vw - 150px);
+  height: calc(33vw - 150px);
+  max-width: 476px;
+  max-height: 476px;
+  border-radius: 60%;
+  background-color: #F8D162;
+  margin: 126px 4px 0 auto;
+}

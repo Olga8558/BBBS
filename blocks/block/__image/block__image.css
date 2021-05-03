@@ -1,0 +1,7 @@
+.block__image {
+  background: url(../../../images/block-place.jpg) no-repeat center/cover;
+  width: 93%;
+  height: 401px;
+  margin: 66px 0px 15px;
+  border-radius: 30px;
+}
